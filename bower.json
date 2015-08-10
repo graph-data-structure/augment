@@ -15,7 +15,7 @@
 	],
 	"name": "aureooms-js-graph-augment",
 	"homepage": "http://aureooms.github.io/js-graph-augment/",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"license": "AGPL-3.0",
 	"main": "js/dist/graph-augment.js",
 	"description": "Augmented graphs code bricks for JavaScript"

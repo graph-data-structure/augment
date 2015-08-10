@@ -4,7 +4,7 @@
 	"scripts": [
 		"js/dist/graph-augment.js"
 	],
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"name": "aureooms-js-graph-augment",
 	"main": "js/dist/graph-augment.js",
 	"description": "Augmented graphs code bricks for JavaScript"
