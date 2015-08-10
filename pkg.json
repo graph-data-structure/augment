@@ -1,0 +1,18 @@
+{
+	"code": {
+		"test": [
+			"test",
+			"js"
+		],
+		"main": [
+			"js",
+			"dist",
+			"graph-augment.js"
+		]
+	},
+	"name": "graph-augment",
+	"src": "js/src/",
+	"out": "js/dist/",
+	"babel": true,
+	"debug": false
+}

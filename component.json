@@ -1,0 +1,11 @@
+{
+	"repo": "aureooms/js-graph-augment",
+	"license": "AGPL-3.0",
+	"scripts": [
+		"js/dist/graph-augment.js"
+	],
+	"version": "0.0.0",
+	"name": "aureooms-js-graph-augment",
+	"main": "js/dist/graph-augment.js",
+	"description": "Augmented graphs code bricks for JavaScript"
+}
