@@ -1,36 +1,43 @@
 {
-	"spm": {
-		"main": "js/dist/graph-augment.js"
-	},
-	"version": "0.0.1",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/aureooms/js-graph-augment.git"
-	},
-	"dependencies": {},
-	"scripts": {
-		"doc": "./node_modules/.bin/groc",
-		"build": "./node_modules/.bin/aureooms-node-package-build",
-		"test": "./node_modules/.bin/aureooms-node-package-test"
-	},
-	"keywords": [
-		"augment",
-		"bricks",
-		"ender",
-		"graph",
-		"javascript",
-		"js"
-	],
-	"devDependencies": {
-		"aureooms-node-package": "^5.0.2"
-	},
-	"name": "aureooms-js-graph-augment",
-	"homepage": "http://aureooms.github.io/js-graph-augment/",
-	"license": "AGPL-3.0",
-	"description": "Augmented graphs code bricks for JavaScript",
-	"bugs": {
-		"url": "https://github.com/aureooms/js-graph-augment/issues"
-	},
-	"main": "js/dist/graph-augment.js",
-	"author": "aureooms"
+  "spm": {
+    "main": "js/dist/graph-augment.js"
+  },
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aureooms/js-graph-augment.git"
+  },
+  "dependencies": {},
+  "scripts": {
+    "doc": "./node_modules/.bin/groc",
+    "build": "./node_modules/.bin/aureooms-node-package-build",
+    "test": "./node_modules/.bin/aureooms-node-package-test"
+  },
+  "keywords": [
+    "augment",
+    "bricks",
+    "ender",
+    "graph",
+    "javascript",
+    "js"
+  ],
+  "devDependencies": {
+    "aureooms-js-adjacency-list": "^4.0.7",
+    "aureooms-js-cardinality": "^1.1.0",
+    "aureooms-js-dll": "^6.0.10",
+    "aureooms-js-graph-labeled": "0.1.1",
+    "aureooms-js-graph-spec": "^5.0.2",
+    "aureooms-js-graph-sugar": "0.1.2",
+    "aureooms-js-itertools": "^1.2.0",
+    "aureooms-node-package": "^5.0.2"
+  },
+  "name": "aureooms-js-graph-augment",
+  "homepage": "http://aureooms.github.io/js-graph-augment/",
+  "license": "AGPL-3.0",
+  "description": "Augmented graphs code bricks for JavaScript",
+  "bugs": {
+    "url": "https://github.com/aureooms/js-graph-augment/issues"
+  },
+  "main": "js/dist/graph-augment.js",
+  "author": "aureooms"
 }
