@@ -161,11 +161,11 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
           "foldPrefix": "^",
           "name": "JavaScript"
         },
-        "sourcePath": "/home/aureooms/dev/js/js-graph-augment/js/src/dummy.js",
-        "projectPath": "js/src/dummy.js",
-        "targetPath": "dummy",
-        "pageTitle": "dummy",
-        "title": "dummy"
+        "sourcePath": "/home/aureooms/dev/js/js-graph-augment/js/src/augment.js",
+        "projectPath": "js/src/augment.js",
+        "targetPath": "augment",
+        "pageTitle": "augment",
+        "title": "augment"
       },
       "depth": 1,
       "outline": []
