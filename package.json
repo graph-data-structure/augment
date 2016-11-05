@@ -29,7 +29,7 @@
 		"aureooms-js-graph-spec": "^5.0.2",
 		"aureooms-js-graph-sugar": "0.1.2",
 		"aureooms-js-itertools": "^3.0.0",
-		"aureooms-node-package": "^6.0.1"
+		"aureooms-node-package": "^7.0.0"
 	},
 	"name": "aureooms-js-graph-augment",
 	"homepage": "http://aureooms.github.io/js-graph-augment/",
