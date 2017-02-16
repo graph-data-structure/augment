@@ -3,16 +3,16 @@
 
 Augmented graphs code bricks for JavaScript
 
-[![NPM license](http://img.shields.io/npm/l/@aureooms/js-graph-augment.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-graph-augment/master/LICENSE)
-[![NPM version](http://img.shields.io/npm/v/@aureooms/js-graph-augment.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-graph-augment)
-[![Bower version](http://img.shields.io/bower/v/@aureooms/js-graph-augment.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-graph-augment)
-[![Build Status](http://img.shields.io/travis/aureooms/js-graph-augment.svg?style=flat)](https://travis-ci.org/aureooms/js-graph-augment)
-[![Coverage Status](http://img.shields.io/coveralls/aureooms/js-graph-augment.svg?style=flat)](https://coveralls.io/r/aureooms/js-graph-augment)
-[![Dependencies Status](http://img.shields.io/david/aureooms/js-graph-augment.svg?style=flat)](https://david-dm.org/aureooms/js-graph-augment#info=dependencies)
-[![devDependencies Status](http://img.shields.io/david/dev/aureooms/js-graph-augment.svg?style=flat)](https://david-dm.org/aureooms/js-graph-augment#info=devDependencies)
-[![Code Climate](http://img.shields.io/codeclimate/github/aureooms/js-graph-augment.svg?style=flat)](https://codeclimate.com/github/aureooms/js-graph-augment)
-[![NPM downloads per month](http://img.shields.io/npm/dm/@aureooms/js-graph-augment.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-graph-augment)
-[![GitHub issues](http://img.shields.io/github/issues/aureooms/js-graph-augment.svg?style=flat)](https://github.com/aureooms/js-graph-augment/issues)
+[![NPM license](https://img.shields.io/npm/l/@aureooms/js-graph-augment.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-graph-augment/master/LICENSE)
+[![NPM version](https://img.shields.io/npm/v/@aureooms/js-graph-augment.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-graph-augment)
+[![Bower version](https://img.shields.io/bower/v/@aureooms/js-graph-augment.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-graph-augment)
+[![Build Status](https://img.shields.io/travis/aureooms/js-graph-augment.svg?style=flat)](https://travis-ci.org/aureooms/js-graph-augment)
+[![Coverage Status](https://img.shields.io/coveralls/aureooms/js-graph-augment.svg?style=flat)](https://coveralls.io/r/aureooms/js-graph-augment)
+[![Dependencies Status](https://img.shields.io/david/aureooms/js-graph-augment.svg?style=flat)](https://david-dm.org/aureooms/js-graph-augment#info=dependencies)
+[![devDependencies Status](https://img.shields.io/david/dev/aureooms/js-graph-augment.svg?style=flat)](https://david-dm.org/aureooms/js-graph-augment#info=devDependencies)
+[![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-graph-augment.svg?style=flat)](https://codeclimate.com/github/aureooms/js-graph-augment)
+[![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-graph-augment.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-graph-augment)
+[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-graph-augment.svg?style=flat)](https://github.com/aureooms/js-graph-augment/issues)
 [![Inline docs](http://inch-ci.org/github/aureooms/js-graph-augment.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-graph-augment)
 
 Can be managed through [jspm](https://github.com/jspm/jspm-cli),
