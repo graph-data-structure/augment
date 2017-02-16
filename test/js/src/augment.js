@@ -1,13 +1,13 @@
 
-var itertools = require( "aureooms-js-itertools" ) ;
-var cardinality = require( "aureooms-js-cardinality" ) ;
+var itertools = require( "@aureooms/js-itertools" ) ;
+var cardinality = require( "@aureooms/js-cardinality" ) ;
 
-var dll = require( "aureooms-js-dll" ) ;
-var adjacencylist = require( "aureooms-js-adjacency-list" ) ;
+var dll = require( "@aureooms/js-dll" ) ;
+var adjacencylist = require( "@aureooms/js-adjacency-list" ) ;
 
-var labeled = require( "aureooms-js-graph-labeled" ) ;
-var sugar = require( "aureooms-js-graph-sugar" ) ;
-var spec = require( "aureooms-js-graph-spec" ) ;
+var labeled = require( "@aureooms/js-graph-labeled" ) ;
+var sugar = require( "@aureooms/js-graph-sugar" ) ;
+var spec = require( "@aureooms/js-graph-spec" ) ;
 
 var List = dll.DoublyLinkedList ;
 var _MultiGraph = adjacencylist.MultiGraph( List ) ;
