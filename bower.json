@@ -14,7 +14,7 @@
 		"README.md"
 	],
 	"name": "aureooms-js-graph-augment",
-	"homepage": "http://aureooms.github.io/js-graph-augment/",
+	"homepage": "http://make-github-pseudonymous-again.github.io/js-graph-augment/",
 	"version": "0.1.0",
 	"license": "AGPL-3.0",
 	"main": "js/dist/graph-augment.js",

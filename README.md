@@ -1,4 +1,4 @@
-[js-graph-augment](http://aureooms.github.io/js-graph-augment)
+[js-graph-augment](http://make-github-pseudonymous-again.github.io/js-graph-augment)
 ==
 
 Augmented graphs code bricks for JavaScript
