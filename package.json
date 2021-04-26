@@ -5,7 +5,7 @@
 	"version": "0.1.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aureooms/js-graph-augment.git"
+		"url": "https://github.com/make-github-pseudonymous-again/js-graph-augment.git"
 	},
 	"dependencies": {},
 	"scripts": {
@@ -36,7 +36,7 @@
 	"license": "AGPL-3.0",
 	"description": "Augmented graphs code bricks for JavaScript",
 	"bugs": {
-		"url": "https://github.com/aureooms/js-graph-augment/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-graph-augment/issues"
 	},
 	"main": "js/dist/graph-augment.js",
 	"author": "aureooms"
